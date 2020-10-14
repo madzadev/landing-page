@@ -27,9 +27,9 @@ h1 {
 }
 
 p {
-  color: rgb(111, 0, 255);
   font-family: "Comfortaa", cursive;
   font-size: 24px;
+  color: rgb(111, 0, 255);
   margin: 15px 0;
 }
 

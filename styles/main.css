@@ -11,25 +11,25 @@ body {
   display: grid;
   place-items: center;
   background-color: black;
-  color: white;
 }
 
-.content-wrapper {
+.page-wrapper {
   display: grid;
   place-items: center;
   text-align: center;
 }
 
 h1 {
+  color: white;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 5em;
-  letter-spacing: -0.035em;
+  letter-spacing: -0.04em;
 }
 
 p {
+  color: rgb(98, 0, 255);
   font-family: "Comfortaa", cursive;
-  font-size: 24px;
-  color: rgb(111, 0, 255);
+  font-size: 1.5em;
   margin: 15px 0;
 }
 
@@ -39,11 +39,11 @@ p {
 
 .icon {
   color: white;
-  cursor: pointer;
   padding: 15px;
   border-radius: 50%;
 }
 
 .icon:hover {
-  background-color: rgb(24, 24, 24);
+  cursor: pointer;
+  background-color: rgb(22, 22, 22);
 }

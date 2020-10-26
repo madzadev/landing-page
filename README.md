@@ -1,19 +1,20 @@
 # Landing Page
 
 Personal landing page for [madza.dev](https://madza.dev).
+
 Designed to keep simplicity in mind in both setup and UI.
 
 ![Demo](https://i.imgur.com/bNMeNsv.png)
 
 ## Stack
 
-1. HTML
-2. CSS
-3. Font Awesome
+1. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+2. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+3. [Font Awesome](https://fontawesome.com/)
 
 ## Themes
 
-Couple color schemes for inspiration.
+Couple custom dark themes for inspiration.
 
 1. `#000`, `#fff` and `#FF33F5`:
 

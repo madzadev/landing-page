@@ -7,14 +7,14 @@
 }
 
 body {
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
   background-color: black;
 }
 
-.page-wrapper {
+.content-wrapper {
   text-align: center;
 }
 

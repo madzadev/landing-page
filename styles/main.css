@@ -8,14 +8,13 @@
 
 body {
   height: 100vh;
-  display: grid;
-  place-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: black;
 }
 
 .page-wrapper {
-  display: grid;
-  place-items: center;
   text-align: center;
 }
 
